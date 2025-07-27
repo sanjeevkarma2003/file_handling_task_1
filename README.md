@@ -22,4 +22,4 @@ Option 4 simply exits the program using return 0, which breaks out of the infini
 
 This program is a good example for beginners learning how to work with files in C++. It covers the basic operations that are commonly used in real-world applications involving file storage and retrieval. It also demonstrates good practice in terms of user interaction, checking for file opening errors, and separating logic into well-named functions for clarity. With minor modifications, this code can be extended into more advanced applications like student databases, log systems, or note-taking tools. Overall, this is a foundational program that showcases the importance and use of file-handling techniques in C++ in a simple and structured way.
 
-https://private-user-images.githubusercontent.com/208998233/467566365-10244537-aba1-4cd6-bddf-891542fefb2c.png?
+https://private-user-images.githubusercontent.com/208998233/467566365-10244537-aba1-4cd6-bddf-891542fefb2c.png
